@@ -124,8 +124,8 @@
     "name": "an",
     "nameShort": "AN",
     "nameShortEs": "AN",
-    "nameLong": "AN",
-    "nameLongEs": "AN",
+    "nameLong": "Ammoniacal Nitrogen",
+    "nameLongEs": "Nitrógeno amoniacal",
     "unit": "mg/L",
     "maxValue": 10000
   },
