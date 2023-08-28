@@ -9813,7 +9813,7 @@
     "id": 218,
     "name": "Average Wastewater from Textile Industry",
     "nameEs": "Promedio de aguas residuales de la Industria Textil",
-    "category": 32,
+    "category": 1,
     "turbidity": null,
     "tss": 110,
     "bod": 455,
